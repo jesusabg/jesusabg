@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jesusabg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jesusabg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jes%c3%bas-abbad-garcia-garcia-2276a5143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jes%c3%bas-abbad-garcia-garcia-2276a5143/https://www.linkedin.com/in/jes%c3%bas-abbad-garcia-garcia-2276a5143/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jes%C3%BAs-abbad-g-2276a5143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jes%C3%BAs-abbad-g-2276a5143" height="30" width="40" /></a>
 <a href="https://instagram.com/cruchoabg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cruchoabg" height="30" width="40" /></a>
 </p>
 
